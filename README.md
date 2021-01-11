@@ -6,7 +6,7 @@
 
 ### Purpose
 
-* The main purpose of this analysis is to refactor the current code in order to allow the dataset to include the entire stock market over the last few years. The orginal code (please see *(**background** below*), although functioning, would take far too long to execute with thousands of stocks. The aim is to have the ability to loop through all the data at one time.
+* The main purpose of this analysis is to refactor the current code in order to allow the dataset to include the entire stock market over the last few years. The orginal code (*please see **background** below*), although functioning, would take far too long to execute with thousands of stocks. The aim is to have the ability to loop through all the data at one time.
 
 ### Background
 
