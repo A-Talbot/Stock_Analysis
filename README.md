@@ -28,7 +28,9 @@ Overall, **ENPH** and **RUN** are the most promising to invest in, with postive 
 
 ### Code Performance
 
-It is clear that refactoring the code to allow for the dataset to be looped through all at once has enabled Steve to access the stock returns much faster, therefore proving to be useful for larger datasets with thousands of stocks.
+It is clear that refactoring the code to allow for the dataset to be looped through all at once has enabled Steve to access the stock returns much faster, therefore proving to be useful for larger datasets with thousands of stocks. The code below shows how a tickerIndex was utilized to allow for the macro to run and the dataset to be processed all at once.
+
+![Refactored_Code](Refactored_Code.png)
 
 ## Summary
 
