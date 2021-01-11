@@ -17,10 +17,14 @@ This workbook was intitially created to analyze a dataset of stocks for the year
 ### Stock Performance
 
 * 2017 was overall a more successful year for the stock market, with only one ticker with a negative return *(see 2017 Returns image below)*
+
 ![2017_Returns](2017_Returns.png)
 
 * 2018 proved to be a much more difficult year, with all but 2 tickers with negative returns *(see 2018 Returns image below)*
+
 ![2018_Returns](2018_Returns.png)
+
+Overall, **ENPH** and **RUN** are the most promising to invest in, with postive returns in years 2017 and 2018.
 
 ### Code Performance
 
