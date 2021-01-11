@@ -17,6 +17,7 @@ This workbook was intitially created to analyze a dataset of stocks for the year
 ### Stock Performance
 
 * 2017 was overall a more successful year for the stock market, with only one ticker having a negative return *(see 2017 Returns image below)*
+![test]/VBA_Challenge_2017
 
 * 2018 proved to be a much more difficult year, with all but 2 tickers with negative returns *(see 2018 Returns image below)*
 
@@ -28,8 +29,8 @@ It is clear that refactoring the code to allow for the dataset to be looped thro
 
 ### Advantages & Disadvantages
 
-Smoother programming, debugging, and code base that is easier to maintain are all advantages of refactoring code. The typical clear and concise outcome of refactored code promotes easy readability. That being said, when in the process of refactoring code, one may introduce bugs, 
+Smoother programming, debugging, and code base that is easier to maintain are all advantages of refactoring code. The typical clear and concise outcome of refactored code promotes easy readability. That being said, when in the process of refactoring code, one may introduce bugs when refactored incorrectly.
 
 ### Pros & Cons 
 
-Specifically to this particular dataset, refactoring has a practical application to the orginal VBA script as it enables thousands of stocks to be analyzed at one time
+Specifically to this particular dataset, refactoring has a practical application to the orginal VBA script as it enables thousands of stocks to be analyzed at one time. 
