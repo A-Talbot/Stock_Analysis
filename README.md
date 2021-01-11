@@ -16,7 +16,9 @@
 
 ### Stock Performance
 
-* 
+* 2017 was overall a more successful year for the stock market, with only one ticker having a negative return *(see 2017 Returns image below)*
+
+* 2018 proved to be a much more difficult year, with all but 2 tickers with negative returns *(see 2018 Returns image below*
 
 ### Code Performance
 
