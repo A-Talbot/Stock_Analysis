@@ -32,6 +32,11 @@ It is clear that refactoring the code to allow for the dataset to be looped thro
 
 ![Refactored_Code](Refactored_Code.png)
 
+The specific timer comparisons for the original VBA Script and the Refactored Code is as follows:
+
+![VBA_Original_2017](VBA_Original_2017.png)![VBA_Challenge_2017](VBA_Challenge_2017.png)
+![VBA_Original_2018](VBA_Original_2017.png)![VBA_Challenge_2018](VBA_Challenge_2017.png)
+
 ## Summary
 
 ### Advantages & Disadvantages
